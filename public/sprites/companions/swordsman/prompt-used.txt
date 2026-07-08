@@ -1,0 +1,1 @@
+swordsman companion 4x4 direction walk cycle, columns left foot forward, crossing, right foot forward, crossing

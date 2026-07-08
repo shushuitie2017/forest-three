@@ -1,0 +1,175 @@
+{
+  "target": "player",
+  "mode": "walk",
+  "prompt": "Facing down, four-frame walk: left foot forward, feet crossing, right foot forward, feet crossing.",
+  "role": "",
+  "input": "/Users/miya/.codex/generated_images/019e8622-4f0d-7fe2-bb91-01e9eb889da9/ig_0fb8b09bbaaff69e016a1e3e63f9108191b7927cffff7757f1.png",
+  "threshold": 100,
+  "edge_threshold": 150,
+  "duration": 120,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 128,
+  "fit_scale": 0.92,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 8,
+  "min_component_area": 200,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "walk-1",
+    "walk-2",
+    "walk-3",
+    "walk-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        887,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 40299,
+      "selected_component_bbox": [
+        424,
+        59,
+        613,
+        399
+      ],
+      "crop_bbox": [
+        416,
+        51,
+        621,
+        407
+      ],
+      "edge_touch": false,
+      "output_size": [
+        67,
+        116
+      ],
+      "paste_position": [
+        30,
+        7
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        887,
+        0,
+        1774,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 39893,
+      "selected_component_bbox": [
+        181,
+        52,
+        366,
+        392
+      ],
+      "crop_bbox": [
+        173,
+        44,
+        374,
+        400
+      ],
+      "edge_touch": false,
+      "output_size": [
+        65,
+        116
+      ],
+      "paste_position": [
+        31,
+        7
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        887,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 40520,
+      "selected_component_bbox": [
+        424,
+        39,
+        613,
+        381
+      ],
+      "crop_bbox": [
+        416,
+        31,
+        621,
+        389
+      ],
+      "edge_touch": false,
+      "output_size": [
+        67,
+        117
+      ],
+      "paste_position": [
+        30,
+        6
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        887,
+        443,
+        1774,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 40169,
+      "selected_component_bbox": [
+        181,
+        38,
+        366,
+        381
+      ],
+      "crop_bbox": [
+        173,
+        30,
+        374,
+        389
+      ],
+      "edge_touch": false,
+      "output_size": [
+        65,
+        117
+      ],
+      "paste_position": [
+        31,
+        6
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

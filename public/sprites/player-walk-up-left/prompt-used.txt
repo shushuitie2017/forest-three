@@ -1,0 +1,1 @@
+Mirrored from generated facing-up-right 2x2 sheet to produce facing-up-left four-frame walk.
