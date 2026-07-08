@@ -1,6 +1,6 @@
 # forest-three · 项目说明
 
-用 Three.js 手搓的 2.5D 体素风「神秘森林」浏览器小游戏。整片森林即时生成，玩家带三位伙伴（盗贼/剑士/法师）在夜色里散步。中文改编版，部署到 GitHub Pages。
+用 Three.js 手搓的 2.5D 体素风「神秘森林」浏览器小游戏。整片森林即时生成，玩家带三位伙伴（盗贼/剑士/法师）在夜色里散步。部署到 GitHub Pages。
 
 ## 技术栈
 
@@ -38,6 +38,6 @@ pnpm preview    # 预览构建产物
 - 部署走 `.github/workflows/deploy-pages.yml`，推 `main` 自动构建上线
 - 新仓库首次需在 GitHub → Settings → Pages → Source 手动选「GitHub Actions」
 
-## 说明
+## 协议
 
-中文改编自一个 AI 辅助搓出的开源体素森林实验作品，保留原始美术与生成逻辑，本地化界面/文档/构建链并重新部署。协议见 LICENSE。
+MIT，见 LICENSE。随便用、随便改、随便造。
